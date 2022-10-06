@@ -28,4 +28,4 @@ The benefits of refractoring code are adundant - not only can it improve the ove
 
 ## References
 
-1. 2018. *S&P Dow Jones Indices*. [ebook] SPDJ.com, pp.1,4. Available at: <http://us.spindices.com/indices/equity/sp-500> [Accessed 3 October 2022].
+2018. *S&P Dow Jones Indices*. [ebook] SPDJ.com, pp.1,4. Available at: <http://us.spindices.com/indices/equity/sp-500> [Accessed 3 October 2022].
