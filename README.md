@@ -10,7 +10,7 @@ The purpose of this challenge was to refractor VBA code I had created to analyze
 
 ### Stock Performance Between 2017 and 2018
 
-The results of this analysis show that these green stocks earned a greater return in 2017 than in 2018. It is difficult to pinpoint the specific factors that contributed to this drop, but the data is reflective of the the plunge the stock market took as a whole in 2018, particularly in the second half<sup>1</sup>. The images from the data analysis below show positive returns in green, and negative returns in red. As you can see, green stocks were generally successful in 2017, but unfortunately, the opposite is true for 2018.
+The results of this analysis show that these green stocks earned a greater return in 2017 than in 2018. It is difficult to pinpoint the specific factors that contributed to this drop, but the data is reflective of the the plunge the stock market took as a whole in 2018, particularly in the second half <sup>1</sup>. The images from the data analysis below show positive returns in green, and negative returns in red. As you can see, green stocks were generally successful in 2017, but unfortunately, the opposite is true for 2018.
 
 <img width="274" alt="Screen Shot 2022-10-05 at 6 54 48 PM" src="https://user-images.githubusercontent.com/113553238/194182082-8503d539-45b8-4cd0-8fde-a0489b981aa3.png">     <img width="273" alt="Screen Shot 2022-10-05 at 6 55 00 PM" src="https://user-images.githubusercontent.com/113553238/194182100-0eb04bfd-1433-43d0-849e-0b46577f1935.png">
 
@@ -28,4 +28,4 @@ The benefits of refractoring code are adundant - not only can it improve the ove
 
 ## References
 
-2018. *S&P Dow Jones Indices*. [ebook] SPDJ.com, pp.1,4. Available at: <http://us.spindices.com/indices/equity/sp-500> [Accessed 3 October 2022].
+  2018. *S&P Dow Jones Indices*. [ebook] SPDJ.com, pp.1,4. Available at: <http://us.spindices.com/indices/equity/sp-500> [Accessed 3 October 2022].
