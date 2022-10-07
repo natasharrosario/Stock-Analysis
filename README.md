@@ -4,7 +4,7 @@
 
 ### Purpose
 
-The purpose of this challenge was to refractor VBA code I had created to analyze green energy stock data from 2017 and 2018. This was done so that the dataset could be expanded to include the entire stock market over a wider number of years and still be executed quickly and efficiently.  
+The purpose of this challenge was to refactor VBA code I had created to analyze green energy stock data from 2017 and 2018. This was done so that the dataset could be expanded to include the entire stock market over a wider number of years and still be executed quickly and efficiently.  
 
 ## Results
 
@@ -18,7 +18,8 @@ The results of this analysis show that these green stocks earned a greater retur
 
 The execution times for the analyses of both years with the refactored code are shown in the images below. While the code took ever so slightly longer to run that in the original script, the code is much more concise and logical. The entire analysis is done in a single subroutine rather than two, and the variables used to represent the data, as well as the comments used to navigate the loops are clearer, more intuitive and easier to follow. This makes it easier for the code to be applied to data from the entire stock market as opposed to just the initial twelve stocks, and reduces the risk of errors and bugs.
 
-<img width="511" alt="2017" src="https://user-images.githubusercontent.com/113553238/194184457-b96a4198-e2cb-4cbc-9eb0-9f5099fcb710.png">     <img width="530" alt="2018" src="https://user-images.githubusercontent.com/113553238/194184500-03076fe3-9f3a-404a-b45f-f9e2fa182785.png">
+<img width="508" alt="2017" src="https://user-images.githubusercontent.com/113553238/194639645-15edd802-3d06-4914-9380-b58f95497888.png">
+<img width="517" alt="2018" src="https://user-images.githubusercontent.com/113553238/194639654-efe97566-11e9-42c5-a521-efbce3aaeb65.png">
 
 ## Summary
 
