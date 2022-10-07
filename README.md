@@ -18,8 +18,8 @@ The results of this analysis show that these green stocks earned a greater retur
 
 The execution times for the analyses of both years with the refactored code are shown in the images below. While the code took ever so slightly longer to run that in the original script, the code is much more concise and logical. The entire analysis is done in a single subroutine rather than two, and the variables used to represent the data, as well as the comments used to navigate the loops are clearer, more intuitive and easier to follow. This makes it easier for the code to be applied to data from the entire stock market as opposed to just the initial twelve stocks, and reduces the risk of errors and bugs.
 
-<img width="508" alt="2017" src="https://user-images.githubusercontent.com/113553238/194639645-15edd802-3d06-4914-9380-b58f95497888.png">
-<img width="517" alt="2018" src="https://user-images.githubusercontent.com/113553238/194639654-efe97566-11e9-42c5-a521-efbce3aaeb65.png">
+<img width="512" alt="2017" src="https://user-images.githubusercontent.com/113553238/194640199-6a126ef2-cf9e-4e00-a1f4-738447b41064.png">
+<img width="506" alt="2018" src="https://user-images.githubusercontent.com/113553238/194640213-a43bb17a-4c44-4e46-8d2e-1023df2826c3.png">
 
 ## Summary
 
